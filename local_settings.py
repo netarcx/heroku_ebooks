@@ -3,10 +3,10 @@ Local Settings for a heroku_ebooks account. #fill in the name of the account you
 '''
 
 #configuration
-MY_CONSUMER_KEY = 'Your Twitter API Consumer Key'
-MY_CONSUMER_SECRET = 'Your Consumer Secret Key'
-MY_ACCESS_TOKEN_KEY = 'Your Twitter API Access Token Key'
-MY_ACCESS_TOKEN_SECRET = 'Your Access Token Secret'
+MY_CONSUMER_KEY = '	EPldH1n6wpFPy1OPVRh3XrIvT'
+MY_CONSUMER_SECRET = '	zQmKazJAJIwGEEjgnxEytp6P5D74Tq3iE7OirL1g8DUSKUtpzY'
+MY_ACCESS_TOKEN_KEY = '780621459722866688-mhWfbHzE40I95CCORA2Jow27qbBLbBo'
+MY_ACCESS_TOKEN_SECRET = 'Mfv39ePbq16O8wCVALjLydQcZuBDpqbdKl4DAw3CrmERV'
 
 SOURCE_ACCOUNTS = [""] #A list of comma-separated, quote-enclosed Twitter handles of account that you'll generate tweets based on. It should look like ["account1", "account2"]. If you want just one account, no comma needed.
 ODDS = 8 #How often do you want this to run? 1/8 times?
